@@ -1,0 +1,46 @@
+html{
+ background-color: #0000FF;
+}
+body{
+ text-align: center;
+}
+header{
+  background-color: #FF4500;
+}
+h1{
+  font-family: cursive;
+  font-size: 80px;
+  font-weight: bold;
+  color: lightblue;
+  border: 10px solid red;
+  text-shadow: 3px 3px black;
+}
+h2, h3{
+  font-family: cursive;
+  font-size: 30px;
+  color: white;
+}
+
+p{
+  font-family: sans-serif;
+  color: white;
+}
+img{
+  display: block;
+  margin: auto;
+  border: 10px solid black;
+  border-radius: 8px;
+}
+table{
+  margin: auto;
+}
+a{
+ color: darkred;
+ font-size: 25px;
+ font-family: monospace;
+ background-color: white;
+
+}
+footer{
+  background-color: #FF4500;
+}
