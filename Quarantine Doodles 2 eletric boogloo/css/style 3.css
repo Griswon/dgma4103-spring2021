@@ -1,21 +1,47 @@
+html{
+  background-color: red
+}
 body{
-text-aline=
+ text-align: center;
 }
 header{
+  border: 20px dashed black;
 
 }
 h1{
+  font-family: monospace;
+  font-size: 80px;
+  font-weight: bold;
+  color: white;
 
 }
+h2, h3{
+  font-family: monospace;
+  font-size: 35px;
+  color: white;
+}
 p{
+  font-family: sans-serif;
+  color: black;
+  border-bottom: 2px solid white;
 
 }
 a{
+  color: darkblue;
+  font-size: 25px;
+  font-family: inherit;
 
 }
+table{
+  margin: auto;
+}
 img{
+  display: block;
+  margin: auto;
+  border: 10px solid black;
+  border-radius: 8px;
 
 }
 footer{
-
+ border: 10px dashed black;
 }
