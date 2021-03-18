@@ -23,14 +23,13 @@ h2, h3{
 p{
   font-family: sans-serif;
   color: black;
-  border-bottom: 2px solid white;
-
+  text-shadow: 2px 2px white;
 }
 a{
   color: darkblue;
   font-size: 25px;
   font-family: inherit;
-
+  margin: 12px;
 }
 table{
   margin: auto;
